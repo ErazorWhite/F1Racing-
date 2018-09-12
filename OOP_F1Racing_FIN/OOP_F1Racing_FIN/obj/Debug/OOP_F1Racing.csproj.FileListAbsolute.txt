@@ -1,7 +1,0 @@
-/home/erazor/Рабочий стол/OOP_F1Racing/OOP_F1Racing/OOP_F1Racing/bin/Debug/OOP_F1Racing.exe.config
-/home/erazor/Рабочий стол/OOP_F1Racing/OOP_F1Racing/OOP_F1Racing/bin/Debug/OOP_F1Racing.exe
-/home/erazor/Рабочий стол/OOP_F1Racing/OOP_F1Racing/OOP_F1Racing/bin/Debug/OOP_F1Racing.pdb
-/home/erazor/Рабочий стол/OOP_F1Racing/OOP_F1Racing/OOP_F1Racing/obj/Debug/OOP_F1Racing.csprojResolveAssemblyReference.cache
-/home/erazor/Рабочий стол/OOP_F1Racing/OOP_F1Racing/OOP_F1Racing/obj/Debug/OOP_F1Racing.csproj.CoreCompileInputs.cache
-/home/erazor/Рабочий стол/OOP_F1Racing/OOP_F1Racing/OOP_F1Racing/obj/Debug/OOP_F1Racing.exe
-/home/erazor/Рабочий стол/OOP_F1Racing/OOP_F1Racing/OOP_F1Racing/obj/Debug/OOP_F1Racing.pdb
